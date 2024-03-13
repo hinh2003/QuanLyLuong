@@ -1,0 +1,14 @@
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\bin\Debug\QuanLyTienLuongCtyVM.exe.config
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\bin\Debug\QuanLyTienLuongCtyVM.exe
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\bin\Debug\QuanLyTienLuongCtyVM.pdb
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.csproj.AssemblyReference.cache
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.DuLieu.resources
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.Properties.Resources.resources
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.csproj.GenerateResource.cache
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.csproj.CoreCompileInputs.cache
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.exe
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.pdb
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.ThemChucVu.resources
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.PhongBan.resources
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.ChamCong.resources
+D:\hoangquan\QuanLyTienLuongCtyVM\QuanLyTienLuongCtyVM\obj\Debug\QuanLyTienLuongCtyVM.TongLuong.resources
